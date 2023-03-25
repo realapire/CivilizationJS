@@ -87,7 +87,7 @@ function loadStats(elem) {
 
 }
 
-console.log(hexagons);
+console.log(hexagons, '1');
 
 loadCivilization(true);
 loadCivilization();
